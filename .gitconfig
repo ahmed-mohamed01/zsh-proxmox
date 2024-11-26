@@ -1,0 +1,15 @@
+[user]
+        email = ahmed.mohamed547@gmail.com
+        name = ahmed-mohamed01
+[user]
+  signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAV2qH1jdzSlc1CQskjSBlMNUvm5LlL2EUtmbWgblFIA
+
+[gpg]
+  format = ssh
+
+[commit]
+  gpgsign = true
+
+
+[init]
+	defaultBranch = main
